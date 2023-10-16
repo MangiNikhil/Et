@@ -23,12 +23,7 @@ const Footer = () => {
             <li className="menuItem">FAQ</li>
           </ul>
           <div className="infoText">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur.
+          Explore the world of cinema with our website. Discover a vast movie database, search and filter movies by your preferences, read user reviews, watch trailers, and get personalized recommendations. Join our community, stay updated with movie news, and create your own movie lists. Your cinematic journey starts here.
           </div>
           <div className="socialIcons">
             <span className="icon">
